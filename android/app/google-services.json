@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "54611509710",
+    "project_id": "fanpage3-6487f",
+    "storage_bucket": "fanpage3-6487f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54611509710:android:ca947b848c5daa20096b9f",
+        "android_client_info": {
+          "package_name": "com.fanpage3.fanpage3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54611509710-db8v6j0r1bd6jo7652ipmfb2buisadb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGdepe2S_X2zru6g_Dbp-9N14tr7kbsjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54611509710-db8v6j0r1bd6jo7652ipmfb2buisadb8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54611509710-8pfmup1m5oirlaa024kp0v9lbipql4r2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fanpage3.fanpage3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
